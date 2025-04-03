@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there! 👋 I'm Mouneszz 
 
-<!--
-**Mouneszz/Mouneszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who enjoys working on exciting projects and solving challenging problems.
 
-Here are some ideas to get you started:
+🚀 About Me
+- 💻 **Programming:** C++, Python, Flask, MySQL
+- 🤖 **AI & ML:** NLP, Neural Networks, Computer Vision
+- 🔍 **Current Focus:** Data Structures & Algorithms (DSA), and AI Model Training
+- 📚 **Learning:** GPT Model Creating and Training with Custom Datasets 
+- 🎯 **Interests:** Chatbots, Automation, Machine Learning, DataBase Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and collaborate on exciting projects! 🚀
+
