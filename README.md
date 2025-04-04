@@ -2,8 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys working on exciting projects and solving challenging problems.
 
-### [LeetCode](https://leetcode.com/u/IBlameMounesh/)
-### [Linkdin](https://www.linkedin.com/in/mouneshwaran-v-9b8787266/)
+ - ### [LeetCode](https://leetcode.com/u/IBlameMounesh/) 
+
+ - ### [Linkdin](https://www.linkedin.com/in/mouneshwaran-v-9b8787266/)
 ### 🚀 About Me
 - 💻 **Programming:** C++, Python, Flask, MySQL
 - 🤖 **AI & ML:** NLP, Neural Networks, Computer Vision
