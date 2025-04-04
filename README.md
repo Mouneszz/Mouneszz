@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Mouneszz 
 
-Welcome to my GitHub profile! I'm a passionate developer who enjoys working on exciting projects and solving challenging problems.
+I'm a passionate programmer exploring the world of software development and problem-solving. I enjoy working on real-world projects, participating in coding challenges, and continuously learning new technologies.
 
  - ### [LeetCode](https://leetcode.com/u/IBlameMounesh/) 
 
