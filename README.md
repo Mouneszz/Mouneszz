@@ -1,7 +1,9 @@
 ### Hi there! 👋 I'm Mouneszz 
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys working on exciting projects and solving challenging problems.
-[My LeetCode Profile](https://leetcode.com/u/IBlameMounesh/)
+
+### [LeetCode](https://leetcode.com/u/IBlameMounesh/)
+### [Linkdin](https://www.linkedin.com/in/mouneshwaran-v-9b8787266/)
 ### 🚀 About Me
 - 💻 **Programming:** C++, Python, Flask, MySQL
 - 🤖 **AI & ML:** NLP, Neural Networks, Computer Vision
