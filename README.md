@@ -2,7 +2,7 @@
 
 I'm a passionate programmer exploring the world of software development and problem-solving. I enjoy working on real-world projects, participating in coding challenges, and continuously learning new technologies.
 
- - ### [LeetCode](https://leetcode.com/u/IBlameMounesh/) 
+ - ### [LeetCode 500+](https://leetcode.com/u/IBlameMounesh/) 
 
  - ### [Linkdin](https://www.linkedin.com/in/mouneshwaran-v-9b8787266/)
 ### 🚀 About Me
